@@ -1,9 +1,7 @@
-<p align="center"><img src="/launcher_icon.png" style="height: 100px; width:100px;"/></p>
+<p align="center"><img src="https://github.com/raikasoftware/firewall-privacy-policy/raw/main/launcher_icon.png" style="height: 100px; width:100px;"/></p>
 
-Privacy Policy for F14 Pro
-P
-rivacy Policy
-==============
+# Privacy Policy for F14 Pro
+
 
 Last updated: March 26, 2024
 
