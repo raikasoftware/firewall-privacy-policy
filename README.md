@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center; ">
+<div style="text-align:center;">
 <img src="/launcher_icon.png" style="height: 100px; width:100px;"/>
 </div>
 
