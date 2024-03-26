@@ -1,4 +1,6 @@
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
 <img src="/launcher_icon.png" style="height: 100px; width:100px;"/>
+</div>
 
 Privacy Policy for F14 Pro
 
