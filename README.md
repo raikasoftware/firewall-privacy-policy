@@ -1,4 +1,4 @@
-![Alt text](launcher_icon.png)
+<img src="/launcher_icon.png" style="height: 100px; width:100px;"/>
 
 Privacy Policy for F14 Pro
 
