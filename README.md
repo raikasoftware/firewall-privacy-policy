@@ -1,3 +1,5 @@
+![Alt text](launcher_icon.png)
+
 Privacy Policy for F14 Pro
 
 Privacy Policy
