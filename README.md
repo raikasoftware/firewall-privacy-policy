@@ -1,10 +1,8 @@
-<div style="text-align:center;">
-<img src="/launcher_icon.png" style="height: 100px; width:100px;"/>
-</div>
+<p align="center"><img src="/launcher_icon.png" style="height: 100px; width:100px;"/></p>
 
 Privacy Policy for F14 Pro
-
-Privacy Policy
+P
+rivacy Policy
 ==============
 
 Last updated: March 26, 2024
